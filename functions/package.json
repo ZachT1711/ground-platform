@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "firebase-admin": "^8.4.0",
-    "firebase-functions": "^3.2.0",
+    "firebase-functions": "^3.6.2",
     "google-auth-library": "^4.2.5",
     "googleapis": "^42.0.0"
   },
